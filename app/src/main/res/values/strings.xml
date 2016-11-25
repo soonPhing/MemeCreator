@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemeCreator</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Thank me Bro !</string>
+    <string name="bottomTextView">BOTTOM TEXT</string>
+    <string name="topTextView">TOP TEXT</string>
+</resources>
